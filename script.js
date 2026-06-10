@@ -1,4 +1,4 @@
 function changeText() {
-    document.getElementById("message").innerHTML =
+    document.getElementById("info").innerHTML =
         "Button Clicked Successfully!";
 }
